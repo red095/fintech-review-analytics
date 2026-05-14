@@ -1,0 +1,13 @@
+google-play-scraper
+pandas
+transformers
+torch
+spacy
+scikit-learn
+nltk
+vaderSentiment
+psycopg2-binary
+sqlalchemy
+matplotlib
+seaborn
+pytest
